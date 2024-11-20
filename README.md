@@ -1,4 +1,8 @@
-### study-of-basic-gates
+NAME:RESHMA.G
+
+REFERENCE NUMBER:24003213
+
+STUDY OF BASICS LOGIC GATES
 
 **AIM:** 
 
@@ -64,16 +68,30 @@ Y= A⊕B
 
 **PROGRAM**
 
+
+![Screenshot 2024-11-20 090747](https://github.com/user-attachments/assets/779282b3-871c-48eb-af69-58dd8404aa1d)
+
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
+
+![Screenshot 2024-11-20 090938](https://github.com/user-attachments/assets/f8125020-a639-4b88-9fc1-3321010c8fed)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/a44918be-5c5c-44b5-8970-be27c15a8446)
+
+
+
 **RTL realization Output:** 
 
-**RTL**
+![Screenshot (5)](https://github.com/user-attachments/assets/9b532fbd-6cea-4876-b443-5896a35d6555)
+
 
 **Result:**
+
+Studied and verified the basics of logic gates.
 
 
