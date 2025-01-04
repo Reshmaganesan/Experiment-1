@@ -2,7 +2,7 @@ NAME:RESHMA.G
 
 REFERENCE NUMBER:24003213
 
-STUDY OF BASICS LOGIC GATES
+exp 1:STUDY OF BASICS LOGIC GATES
 
 **AIM:** 
 
@@ -86,8 +86,9 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **RTL realization Output:** 
+![Screenshot 2025-01-04 033632](https://github.com/user-attachments/assets/7c97a5c1-2aff-478d-99f4-ca31b986ce1a)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/9b532fbd-6cea-4876-b443-5896a35d6555)
+
 
 
 **Result:**
